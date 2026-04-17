@@ -1,4 +1,3 @@
-# blinking-three-leds
 
 Blinking Three LEDs Project
 
