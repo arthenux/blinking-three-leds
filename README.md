@@ -1,4 +1,3 @@
-
 #Blinking Three LEDs Project
 
 This project controls three separate LEDs (Red, Green, and Blue) using an Arduino. Each LED blinks a specific number of times in a sequence before passing control to the next one.
